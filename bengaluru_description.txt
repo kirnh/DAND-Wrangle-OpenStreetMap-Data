@@ -1,0 +1,13 @@
+Map Area: 
+Bengaluru, India.
+Dataset page link:
+https://mapzen.com/data/metro-extracts/metro/bengaluru_india/
+OSM file link:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/bengaluru_india.osm.bz2
+
+City description:
+Bengaluru is a metropolitan city in the State of Karnataka, India. It is mostly known as the silicon valley of India because of the kind of development it's showing in the field of technology. It is appreciated for the weather which remains quite consistent throughout the year. The city population seems to be sky rocketing as migrations inward increase. However, being a very popular city in one of the top developing nations, Bengaluru receives top priorities in terms of government support for overall development. It is developing at a very rapid pace with no signs of stopping.
+I live in Bengaluru, I love it here and this is all the reason there is for me selecting this city for my project.
+
+
+

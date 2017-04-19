@@ -1,0 +1,3 @@
+## OpenStreetMap is an opensource map data aggregation platform. When it comes to using any data for any kind of analysis, half the job involves cleaning and preparing the dataset. In this project, we make use of MongoDB to explore and clean the OpenStreetMap data of Bengaluru area, India. 
+
+The code used for exploring the data can be found in osm_exploring.py file, the cleaning code can be found in the osm_cleaning.py file while the final report can be found in osm_project_report.pdf file.
